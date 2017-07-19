@@ -1,2 +1,16 @@
-# Blog-PV
-Es un proyecto dedicado al crecimiento de comunidad en la ciudad a travez de un blog de eventos
+Blog-PV
+
+[Descripcion del proyecto]
+
+[Instalacion]
+-Requisitos
+-Version
+-Encargados del proyecto
+
+[Uso]
+
+[Documentacion]
+
+[Roadmap]
+
+[Licencia]
